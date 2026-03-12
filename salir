@@ -1,0 +1,13 @@
+diff --git a/git2.py b/git2.py
+new file mode 100644
+index 0000000..0c168fc
+--- /dev/null
++++ b/git2.py
+@@ -0,0 +1,6 @@
++n = 5
++i = 0
++while i<n:
++    print(f"numero:{i} ")
++    i += 1
++    
+\ No newline at end of file
